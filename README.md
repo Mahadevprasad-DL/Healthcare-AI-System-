@@ -243,3 +243,18 @@ npm run build
 ---
 
 If you want, I can also generate an API reference section with sample request/response JSON for each endpoint.
+
+
+## 👨‍💻 Author
+
+**Mahadevprasad D L**  
+Software Engineer @ SocGen | MCA | Full Stack Developer | AI & ML Enthusiast
+
+- Freelancer: **mpcodecrafter**
+- 🌐 Portfolio: https://mpcodecrafter.free.nf/?i=1
+
+---
+
+## 📌 Conclusion
+
+Healthcare AI System (HealthSetu) integrates Machine Learning with modern web technologies to provide a practical, scalable, and intelligent healthcare case management platform. The image-assisted diagnosis pipeline, role-based workflows, and end-to-end case lifecycle management make the platform useful for real-world health triage and decision support.
